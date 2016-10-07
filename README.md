@@ -1,3 +1,2 @@
 # chat
-Simple chat
-enter server IP in ServerConstants.java
+Simple chat. Enter server IP in ServerConstants.java
